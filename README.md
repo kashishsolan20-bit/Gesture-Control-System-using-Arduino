@@ -68,10 +68,5 @@ The system detects hand distance using ultrasonic sensors. Based on predefined d
 
 ---
 
-## Project Preview
-(Add your screenshots here)
-
----
-
 ## Conclusion
 This project demonstrates a simple yet effective way to control a computer without physical interaction. It highlights the potential of gesture-based interfaces in modern human-computer interaction systems.
