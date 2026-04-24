@@ -7,7 +7,7 @@ Gesture control is the ability to recognize and interpret human body movements t
 
 ---
 
-## ⚙️ Working Principle
+##  Working Principle
 This system uses **two ultrasonic sensors** connected to an Arduino to detect hand movements.
 
 - Sensors measure the distance between hand and sensor
@@ -15,13 +15,13 @@ This system uses **two ultrasonic sensors** connected to an Arduino to detect ha
 - A **Python program** reads this data
 - Using **PyAutoGUI**, gestures are converted into keyboard/mouse actions
 
-📍 **Sensor Placement:**
+ **Sensor Placement:**
 - Both sensors are placed on top of the laptop screen
 - One on the left and one on the right
 
 ---
 
-## ✋ Hand Gestures & Actions
+## Hand Gestures & Actions
 
 | Gesture | Action |
 |--------|--------|
